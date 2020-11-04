@@ -1,5 +1,5 @@
-train: ../train/images
-val: ../valid/images
+train: ../../BE-Dataset/train/images
+val: ../../BE-Dataset/valid/images
 
 nc: 2
 names: ['no-mask' , 'mask']
